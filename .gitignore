@@ -1,0 +1,5 @@
+vendor/
+.env
+public/log.txt
+env.php
+public/database.txt
